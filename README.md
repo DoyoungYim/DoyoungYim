@@ -58,8 +58,8 @@
 <br/>  
 
 ## Projects
-- A Website showing apartment transaction information (Frontend, Backend)
-- A website to promote indie performances and communicate with artists and fans (Backend)
+- A Website showing apartment transaction information (frontend, backend)
+- A website to promote indie performances and communicate with artists and fans (backend)
 
 <br/>  
 
