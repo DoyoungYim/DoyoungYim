@@ -17,8 +17,9 @@
 
 ## Projects
 - A Website showing apartment transaction information (frontend, backend)
+  - HTML, CSS, JavaScript, Vue.js, Vuetify, Java, Spring, MySQL, MyBatis
 - A website to promote indie performances and communicate with artists and fans (backend)
-
+  - Java, Spring, MySQL, JPA
 <br/>  
 
 
