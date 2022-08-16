@@ -15,6 +15,12 @@
 
 <br/>  
 
+## Projects
+- A Website showing apartment transaction information (frontend, backend)
+- A website to promote indie performances and communicate with artists and fans (backend)
+
+<br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -54,12 +60,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-## Projects
-- A Website showing apartment transaction information (frontend, backend)
-- A website to promote indie performances and communicate with artists and fans (backend)
 
 <br/>  
 
