@@ -32,8 +32,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -59,6 +57,9 @@
 
 <br/>  
 
+## Projects
+- A Website showing apartment transaction information (Frontend, Backend)
+- A website to promote indie performances and communicate with artists and fans (Backend)
 
 ## Problem Solving
 ### Baekjoon Online Judge (solved.ac)
