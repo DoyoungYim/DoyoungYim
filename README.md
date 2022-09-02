@@ -16,9 +16,11 @@
 <br/>  
 
 ## Projects
-- A website showing apartment transaction information (frontend, backend)
+- Way Back Home
+  - A website showing apartment transaction information (frontend, backend)
   - HTML, CSS, JavaScript, Vue.js, Vuetify, Java, Spring, MySQL, MyBatis
-- A website to promote indie performances and communicate with artists and fans (backend)
+- Indira-it
+  - A website to promote indie performances and communicate with artists and fans (backend)
   - Java, Spring, MySQL, JPA
 <br/>  
 
