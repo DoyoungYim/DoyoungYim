@@ -1,17 +1,7 @@
 ### <div align="center">Hello, I'm Doyoung Yim</div>  
   
-
-- 🎓 I majored in computer science at Korea Advanced Institute of Science and Technology (KAIST)  
-  
-
-- 📚 I’m currently studying and working on a project at Samsung Software Academy For Youth (SSAFY)  
-  
-
-- 🖥️ I'm currently using Java and Spring Framework  
-  
-
-- 🌱 I’m currently learning JPA  
-  
+- 🎓 I majored in computer science at Korea Advanced Institute of Science and Technology (KAIST) 
+- 📚 I am working as a mobile application developer at Samsung Electronics.
 
 <br/>  
 
@@ -27,8 +17,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
