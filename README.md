@@ -1,7 +1,7 @@
 ### <div align="center">Hello, I'm Doyoung Yim</div>  
-  
-- 🎓 I majored in computer science at Korea Advanced Institute of Science and Technology
+
 - 📚 I am working as a mobile application developer at Samsung Electronics.
+- 🎓 I majored in computer science at Korea Advanced Institute of Science and Technology
 
 <br/>  
 
